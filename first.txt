@@ -1,2 +1,1 @@
 "this is the first command"
-"this is the third command"
